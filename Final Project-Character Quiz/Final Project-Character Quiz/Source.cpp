@@ -31,7 +31,8 @@ int main()
 
 void Hero() //Ian's code
 {
-	int exists = 1;
+	int exists = 1; //Because I had to make more questions to make all the heroes accurate, the user could potentially 
+	//enter a barcode that does not match with a character in the text file.
 	do{
 		Character Hero;
 
@@ -41,6 +42,7 @@ void Hero() //Ian's code
 		string HeroFileBase = ("C:\\Users\\Ian\\CS172\\");
 		ifstream HeroNames(HeroFileBase + "CharacterHeroes.txt");
 		int c = 2;
+
 
 		if (!HeroNames)
 		{
@@ -71,7 +73,8 @@ void Hero() //Ian's code
 		while (getline(HeroQuestions, line))
 		{
 			questions.push_back(line);
-			int Y = line.size() - 8;
+			int Y = line.size() - 8; //because I formatted my question text file differently, these numbers
+			//account for the spaces I added.
 			int N = line.size() - 3;
 			FirstA.push_back(line.at(Y));
 			SecondA.push_back(line.at(N));
@@ -92,12 +95,12 @@ void Hero() //Ian's code
 		{
 			cout << "There is not a hero in our database that fits your data" << endl;
 			cout << "Try again" << endl;
-			Hero.setBar(" ");
+			Hero.setBar(" ");//This will reset the barcode to nothing so that the user can try again.
 		}
 		else
 		{
 			cout << "Your heroic doppleganger is: " << Hero.getName() << "!" << endl;
-			exists--;
+			exists--;//removes the user from the loop.
 		}
 	} while (exists = 1);
 }
