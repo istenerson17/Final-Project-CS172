@@ -1,0 +1,137 @@
+11221222121
+Tony Stark
+12211221112
+Steve Rogers
+12221121221
+Bruce Banner
+21111121122
+Thor
+12211121221
+Wolverine
+12211122122
+Nick Fury
+12211112222
+Agent Coulson
+12221221122
+Bruce Wayne
+12221221111
+Peter Parker
+21121222211
+Clark Kent
+12212121121
+Harvey Dent
+22121221211
+Frodo Baggins
+22121121112
+Samwise Gamgee
+22121111112
+Pippin Took
+22121121112
+Meriadoc Brandybuck
+22111221121
+Aragorn
+22111122222
+Legolas Greenleaf
+22121121122
+Gimli
+22111221222
+Gandalf
+22121121111
+Treebeard
+22111121212
+Elrond
+11121221111
+Luke Skywalker
+11221122122
+Han Solo
+21221111122
+Chewbacca
+11111121112
+Obi-Wan Kenobi
+21111121112
+Yoda
+11112221121
+Anakin Skywalker
+11211222121
+James T. Kirk
+21211222111
+Spock
+12221221121
+Indiana Jones
+12121221111
+Harry Potter
+12121121112
+Ron Weasley
+12121221111
+Neville Longbottom
+12121211111
+Rubeus Hagrid
+22121111112
+Dobby
+12122121121
+Captain Jack Sparrow
+12221221222
+William Turner
+12122221121
+Hector Barbossa
+12221121111
+Sherlock Holmes
+12211121121
+John Watson
+21221121111
+The Doctor
+12121221122
+Inigo Montoya
+12221121111
+Westley
+22221111112
+Fezzik
+12222122111
+Robin Hood
+12121222212
+Lone Ranger
+12211122121
+James Bond
+12212221121
+Jason Bourne
+12211121122
+Natasha Rhomanof
+12211112121
+Maria Hill
+12211212111
+Gwen Stacey
+12211221112
+Eowyn
+22112222221
+Galadriel
+22111121211
+Arwen
+21121121111
+Wonder Woman
+11111112111
+Padme Amadala
+11111212111
+Princess Leia
+12121221111
+Hermione Granger
+12121111121
+Ginny Weasley
+12121111111
+Luna Lovegood
+12211221121
+Elizabeth Swan
+12221222121
+Katniss Everdeen
+11221121121
+Ripley
+11111122121
+Samus Aran
+
+
+
+
+
+
+
+
+
