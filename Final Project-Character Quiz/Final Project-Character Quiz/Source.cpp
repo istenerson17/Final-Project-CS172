@@ -27,7 +27,7 @@ int main()
 	{
 		Villain();
 	}
-}
+}//this would have to be changed to make it adaptable for different quizzes
 
 void Hero() //Ian's code
 {
